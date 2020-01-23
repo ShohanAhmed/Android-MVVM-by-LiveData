@@ -1,5 +1,5 @@
-# Android-MVVM-by-LifeData
-Its a simple Android MVVM example by LifeData.
+# Android-MVVM-by-LiveData
+Its a simple Android MVVM example by LiveData.
 
 
 ![](https://github.com/ShohanAhmed/Android-MVVM-by-LifeData/blob/master/Screenshorts/android_mvvm_lifedata.gif)
